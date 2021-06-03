@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters to the council of state, from the commissioners of the militia of several counties, &amp;c. informing them of the several marches of Colonel Lamberts forces, and shewing their readiness to suppress them and a letter from the Lord Montagu, expressing the fleets obedience to the council and Parliament, also a letter from Col. Ingoldsby, who with his own hands took Col. Lambert prisoner : with some further information given by the messenger that came first with the news and was in person at the randezvous on Edge-hill, when Col. Okey and Major Creed appeared there.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48258</idno><idno type="EEBO-CITATION">12610209</idno>
+  <idno type="VID">64340</idno>
+  <idno type="EEBO-PROQUEST">2240963716</idno>
+  
+            <idno type="STC">Wing L1787</idno>
+            <idno type="STC">ESTC R20611</idno>
+            <idno type="OCLC">12610209</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 963:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters to the council of state, from the commissioners of the militia of several counties, &amp;c. informing them of the several marches of Colonel Lamberts forces, and shewing their readiness to suppress them and a letter from the Lord Montagu, expressing the fleets obedience to the council and Parliament, also a letter from Col. Ingoldsby, who with his own hands took Col. Lambert prisoner : with some further information given by the messenger that came first with the news and was in person at the randezvous on Edge-hill, when Col. Okey and Major Creed appeared there.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Abel Roper and Thomas Collins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ingoldsby, Richard, --  Sir, d. 1685.</term>
+               <term type="personal_name">Lambert, John, 1619-1683.</term>
+               <term type="personal_name">Sandwich, Edward Montagu, --  Earl of, 1625-1672.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64340:1"/>
+            <pb facs="tcp:64340:1"/>
+            <p>LETTERS To the Council of State, From the <hi>Commissioners</hi> of the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> of several Counties, &amp;c.</p>
+            <p>Informing them of the several Marches of Colonel <hi>Lamberts</hi> Forces.</p>
+            <p>And shewing their readiness to suppress them.</p>
+            <p>AND A Letter from the Lord <hi>Montagu,</hi> expressing the Fleets obedience to the <hi>Council</hi> and <hi>Parliament.</hi>
+            </p>
+            <p>ALSO A Letter from Col. <hi>Ingoldsby,</hi> who with his own hands took Col. <hi>Lambert</hi> Prisoner.</p>
+            <p>WITH Some further Information given by the Mes<g ref="char:EOLhyphen"/>senger that came first with the News, and was in per<g ref="char:EOLhyphen"/>son at the Randezvouz on <hi>Edge-hill,</hi> when Col. <hi>Okey</hi> and Major <hi>Creed</hi> appeared there.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Abel Roper</hi> and <hi>Thomas Collins,</hi> Printers to the Council of State, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:64340:2"/>
+            <pb n="3" facs="tcp:64340:2"/>
+            <head>A LETTER To the COUNCIL, From the Commissioners of the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> of <hi>Glocester</hi>-shire.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>WE have received Information by the Letters of several Persons of Quali<g ref="char:EOLhyphen"/>ty, that there ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h been for this week last past, many dangerous Meetings of sundry dis-affected persons, at the House of Captain <hi>John Croft</hi> of <hi>Neather-Swell,</hi> in this County; We have therefore thought fit to send out some honest and discreet persons, to make what further Discovery thereof might be, from whom we are ad<g ref="char:EOLhyphen"/>vertised, as well by their Letter, as by the Oaths of
+<pb n="4" facs="tcp:64340:3"/> several Persons, that it is probable that certain of the Reduced and Discontented Officers of the greatest Quality have, and daylie do repair thither; as also, of a Randezvouz appointed by them to morrow at <hi>Edge</hi>-hill. We have therefore thought it requisite first to send out to apprehend and secure the person of the said Captain <hi>John Croft,</hi> and divers others, justly suspected by us, of which we thought it our duty to give you timely notice; and remain</p>
+            <closer>
+               <signed>Your Honours humble Servants,</signed>
+               <dateline>
+                  <hi>Glocester,</hi>
+                  <date>
+                     <hi>April</hi> 29. 1660.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>We are since the Writing of this, advertised by Letters from other places, that several of the Army Troops are marched, and ready to march from</hi> Worcester, Eve<g ref="char:EOLhyphen"/>sham, Bristol, Tewksbury, <hi>and other Places, to meet Colonel</hi> John Lambert <hi>at a Rendezvouz, as they themselves af<g ref="char:EOLhyphen"/>firm.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:64340:3"/>
+            <head>A Letter from the Commissioners of the Militia of <hi>Nottinghamshire.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>WE had late notice of f<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uent Meet<g ref="char:EOLhyphen"/>ings and Preparations of W<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the Discontented Party in this Cou<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and that many of the Private Soul<g ref="char:EOLhyphen"/>diers that Quartered in Town had their Horses all day yesterday ready saddled without Order of their Officers, and in the night time a small Party of them left their Colours; And this morning, about eight a Clock a Party of Horse consisting of a<g ref="char:EOLhyphen"/>bout thirty (in which Party was Captain <hi>Lockyer,</hi> and M. <hi>Everard,</hi> who were lately sent Prisoners to <hi>London,</hi> and Captain <hi>Waine</hi>) marched through this Town, some with drawn Swords, one of them presenting a Pistoll at a Townsman, whereupon Captain <hi>Sherman</hi> drew out his Troop, and Captain <hi>Craddock</hi>'s to pursue them, and all Captain <hi>Craddock</hi>'s Troop excepting ten or twelve Souldiers Revolted, and marched with the said Party towards <hi>Melton</hi> in <hi>Leicestershire,</hi> designing (as 'tis said) to Rendezvouz under Colonel <hi>Lambert</hi> at <hi>Naseby</hi> in <hi>Northamptonshire,</hi> but Captain <hi>Sherman</hi> kept his Troop entire, and hath manifested himself very ready to our assistance, and in the Service of the Country, and his Souldiers have likewise declared themselves to
+<pb n="6" facs="tcp:64340:4"/> be obedient and faithful to his Excellencies my Lord General <hi>Monck</hi>'s Commands, therefore we pray that his Troop may be continued amongst us, and another faithful Troop added to him. Upon the entrance of Captain <hi>Lockyer</hi>'s Party into the Town we received an Alarm, and the Townsmen did rise in Armes, for their own and our defence, and there was immediately about four hundred men drawn out into the Meadows by Colonel <hi>White</hi> and two Guards appointed out of their own for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Bridges, and another for the Castle (which C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptain <hi>Ga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> who dwells in it, hath made so<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> late Fortifications about) for our present safe<g ref="char:EOLhyphen"/>guard, and prevention of Insurrections amongst us; For which purpose we have desired the Sheriffs assist<g ref="char:EOLhyphen"/>ance in raising the well affected of the County by his <hi>Posse Comitatus,</hi> and have intimated the danger to our Neighbouring Counties, with whom we desire to hold correspondence for the Preservation of our Peace, a<g ref="char:EOLhyphen"/>gainst the Enemies thereof, Presuming the Council<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will be pleased to make a favourable construction of our Actions in this Exigency, and speedily fortifie us with Instructions and Power to serve your Honours in the defence of our Country. And we have thought fit to acquaint the Council, that Colonel <hi>Whalley</hi> and Colonel <hi>Goffe</hi> are now at <hi>Southwell</hi> in this County, and that Colonel <hi>Disbrow</hi> was at <hi>Cotgrave</hi> the last <hi>Wednes<g ref="char:EOLhyphen"/>day.</hi> We remain</p>
+            <closer>
+               <salute>(My Lord)</salute>
+               <signed>Your most humble Servants.</signed>
+               <dateline>
+                  <hi>Nott.</hi>
+                  <date>21 <hi>April,</hi> 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:64340:4"/>
+            <head>Major <hi>Beakes</hi> Letter from <hi>Coventry.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>IN obedience to your Lordships Order, I hasted to this City, which I found under a competent guard, the Citizens having put themselves in armes upon an apprehension of some design up<g ref="char:EOLhyphen"/>on it; it is now much more secure, the Com<g ref="char:EOLhyphen"/>panies being up according to your Lordships Order. Its very evident, that this place would have been at the dispose of your enemies, had not some of your Ser<g ref="char:EOLhyphen"/>vants upon the place been very active. Since Thurs<g ref="char:EOLhyphen"/>day night we have been surrounded with parties of Horse, consisting of 40 and 50 in a Company, and but one party has hitherto appeared with Colours. Ye<g ref="char:EOLhyphen"/>sterday there appeared a Troop about <hi>Dunchurch,</hi> who greatly alarm'd the Country; they stopt for some time a Company of Foot of Colonel <hi>Streaters</hi> Regiment disposed for this place; he that had been formerly Ma<g ref="char:EOLhyphen"/>jor of the Regiment, produced order from the Lord <hi>Lambert</hi> to march back; but after some pause they made a shift to break through the temptation and come forward. Part of this Troop (to the number of 30) ap<g ref="char:EOLhyphen"/>proached within a mile of us, and meeting several Members of Parliament, gave a check to their journey, and so they were forced to return hither again: but sen<g ref="char:EOLhyphen"/>ding some Scouts to discover their motion and number, I understand that part of them went towards <hi>Edgehill,</hi>
+               <pb n="8" facs="tcp:64340:5"/> and th'other to <hi>Daintry;</hi> where its said a Troop o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Horse stayed for them; they give out that the Army is wholly theirs. The last night late appeared a Troop of 60 within a mile on th'other side of the City, and they crossed the Country the way leading to <hi>Edgehill,</hi> where several parties of them appeared this 3 dayes. From all parts we have advertisement of their seizure of horses, and their actual declaring for <hi>Lambert,</hi> whom many judge to be in these parts. Any command your Lord<g ref="char:EOLhyphen"/>ship shall think good to lay upon me shall faithfully be performed by</p>
+            <closer>
+               <signed>Your Lordships most humble servant, <hi>ROBERT BEAKE.</hi>
+               </signed>
+               <dateline>Coventry, <date>April 22. 1660.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>The High Sheriff is raising the Countrey.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
